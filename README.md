@@ -1,9 +1,10 @@
-<img align="center" alt="HTML" height="100%" width="100%" style="margin-bottom: 30px" src="https://media.giphy.com/media/2EzVNMLqpNVn2/giphy.gif">
-
 # Greetings, Earthlings! Live long and Prosper! 🖖
 
+<img align="center" alt="HTML" height="100%" width="100%" style="margin: 30px 0" src="https://media.giphy.com/media/2EzVNMLqpNVn2/giphy.gif">
 
-<img align="center" alt="HTML" height="200px" width="100%" style="margin-bottom: 30px" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
+------------------
+
+<img align="center" alt="HTML" height="200px" width="100%" style="margin: 30px 0" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
 
 ## My name is Sarah 👩‍🎤
 
@@ -17,7 +18,7 @@
 ------------------
 <img align="center" alt="HTML" height="100%" width="100%" style="margin: 30px 0" src="https://media.giphy.com/media/gcajW7oKirCdW/giphy.gif">
 
-## You can find me at
+## You can find me at 👋  
 
 <div style="margin-top: 10px"> 
     <a href = "https://www.linkedin.com/in/sarahmurebs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" style="margin: 0 10px; padding: 5px"></a>
@@ -27,7 +28,7 @@
 
 ---------------------------------
 
-### What I know and what I'm learning
+## What I know and what I'm learning 🤓
 <div style="margin-top: 10px">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,7 +41,7 @@
 --------------------------------- 
 <img align="center" alt="HTML" height="100%" width="100%" style="margin-bottom: 20px" src="https://media.giphy.com/media/c49xidPHnyRg0eBWTv/giphy.gif">
 
-## More awesome things about me
+## More awesome things about me 🤯
 
  <div style="margin-bottom: 30px">
    <a href="https://github.com/ssschneider">
