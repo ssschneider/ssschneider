@@ -20,7 +20,7 @@
 ## You can find me at
 
 <div style="margin-top: 10px"> 
-    <a href = "linkedin.com/sarahmurebs"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" style="margin: 0 10px; padding: 5px"></a>
+    <a href = "https://www.linkedin.com/in/sarahmurebs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" style="margin: 0 10px; padding: 5px"></a>
     <a href="https://instagram.com/ssch.codes" target="_blank"><img src="https://img.shields.io/badge/ssch.codes-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" style="margin: 0 10px; padding: 5px"></a>
     <a href = "mailto:mureb_rosa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" target="_blank" style="margin: 0 10px; padding: 5px"></a>
 </div>
