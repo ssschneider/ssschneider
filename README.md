@@ -1,6 +1,8 @@
 # Greetings, Earthlings! Live long and Prosper! 🖖
 
-<img align="center" alt="Spock greeting" height="100%" width="100%" style="margin: 30px 0" src="https://media.giphy.com/media/2EzVNMLqpNVn2/giphy.gif">
+<div align="center">
+    <img  alt="Spock greeting" height="300px" width="600px" src="https://media.giphy.com/media/2EzVNMLqpNVn2/giphy.gif">
+</div>
 
 ------------------
 <div align="center">
@@ -18,7 +20,7 @@
 
 ------------------
 <div align="center">
-    <img  alt="Betty White saying 'I'm also on Facebook and the Twitter'" height="200px" width="100%" src="https://media.giphy.com/media/gcajW7oKirCdW/giphy.gif">
+    <img  alt="Betty White saying 'I'm also on Facebook and the Twitter'" height="300px" width="100%" src="https://media.giphy.com/media/gcajW7oKirCdW/giphy.gif">
 </div>
 
 ## You can find me at 👋  
@@ -45,7 +47,7 @@
 
 ---------------------------------
 <div align="center">
-    <img  alt="Trixie Mattel Waving" height="300px" width="100%" src="https://media.giphy.com/media/c49xidPHnyRg0eBWTv/giphy.gif">
+    <img  alt="Trixie Mattel Waving" height="400px" width="100%" src="https://media.giphy.com/media/c49xidPHnyRg0eBWTv/giphy.gif">
 </div>
 
 ## More awesome things about me 🤯
