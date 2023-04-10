@@ -1,42 +1,76 @@
-# Greeting, Earthlings 🖖, I'm Sarah Schneider
-
 <div align="center">
-    <img  alt="Girl coding with the text 'Coding Queen' over her head" height="200px" width="200px" src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif">
+<h1> Greeting, Earthlings! :vulcan_salute: I come in chaos!</h1>
+</div>  
+
+```
+I'm Sarah, work-in-progress Fullstack Develeoper and Lifelong Learner enthusiast
+```
+
+<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="100%" height="50"/>
+
+
+
+### 🧙‍♀️ My pronouns are she/her
+<br>
+
+### 🌎 I speak portuguese, english, spanish and I'm currently learning german
+<br>
+
+### 👩‍🎓 I’m a Junior Fullstack, currently focusing on my Back-End skills
+<br>
+
+### 🤘 I love to listen to music while I code, it helps me focus
+<br>
+
+### 🚧 I'm always working on a project! Let's build something together?
+<br>
+
+### 🌈 I'm always open to talk, just reach out!
+</br>
+
+
+## <div align="center">My Skills</div> 
+---
+<div align="center" style="margin-top: 24px">
+
+| Front-End | Back-End | Others |
+| ----------| ---------| ------ |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25" style="margin-top: 8px" alt="HTML"/> | <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="25" height="25" style="margin-top: 8px" alt="Node"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25" height="25" style="margin-top: 8px" alt="Git"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="25" height="25"  style="margin-top: 8px" alt="HTML"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="25" height="25" style="margin-top: 8px" alt="Express"/> | <img src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" width="25" height="25" style="margin-top: 8px" alt="Github"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="25" height="25"  style="margin-top: 8px"  alt="Javascript"/> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25" height="25" style="margin-top: 8px" alt="Java"/> | <img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" width="25" height="25" style="margin-top: 8px" alt="NextJS"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="25" height="25"  style="margin-top: 8px"  alt="Typescript"/> | <img src="https://img.icons8.com/color/512/spring-logo.png" width="25" height="25" style="margin-top: 8px" alt="Spring Boot"/> | <img src="https://karmanivero.us/assets/images/logo-vercel.png" width="25" height="25" style="margin-top: 8px" alt="Vercel"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="25" height="25"  style="margin-top: 8px"  alt="React"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="25" height="25" style="margin-top: 8px" alt="SQL"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="25" height="25"  style="margin-top: 8px"  alt="Figma"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="25" height="25"  style="margin-top: 8px"  alt="Bootstrap"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="25" height="25" style="margin-top: 8px" alt="SQLite"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="25" height="25"  style="margin-top: 8px"  alt="Canva"/> |
+| <img src="https://styled-components.com/logo.png" width="25" height="25"  style="margin-top: 8px"  alt="Styled-Components"/> |   |   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="25" height="25"  style="margin-top: 8px"  alt="TailwindCSS"/> |   |  |
+
 </div>
 
+## <div align="center">Reach Out!</div>
+---
 
-## 👩‍💻 About Me:
+<div align="center" style="margin-top: 24px">
 
-🧙‍♀️ My pronouns are she/her
-<br>
-🌎 I speak portuguese, english, spanish and I'm currently learning german
-<br>
-👩‍🎓 I’m a Junior Front-End Developer and life-long learner
-<br>
-🤘 I love to listen to music while I code, it helps me focus
-<br>
-🚧 I'm currently building my Portfolio Website
-<br>
-🌈 I'm always open to talk
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Schneider-7900ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahmurebs/)](https://www.linkedin.com/in/sarahmurebs/)
+[![Instagram Badge](https://img.shields.io/badge/-Sarah%20Schneider-7900ff?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssch.codes/)](https://www.instagram.com/ssch.codes/)
+[![Email Badge](https://img.shields.io/badge/-Email%20Me-7900ff?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:mureb_rosa@hotmail.com)](mailto:mureb_rosa@hotmail.com)
+</div>  
+
+<br/>  
 
 
-## 🔗 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarahmureb) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sarahmurebs) 
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=MicrosoftOutlook&logoColor=white)](mailto:mureb_rosa@hotmail.com)
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats:
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ssschneider&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" align="center">
-</p>
-
-<p>
+## <div align="center">Github Stats </div>
+----
+<div align="center" style="margin-top: 24px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssschneider&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center">
-</p>
+</div>  
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssschneider&theme=synthwave&hide_border=false" align="center">
-</p>
+<br/> 
+
+## <div align="center">Tunes </div>
+----
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sarahmurebs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7900ff&bar_color_cover=true" /></div>  
+
+<br/>
