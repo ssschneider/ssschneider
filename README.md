@@ -11,26 +11,19 @@ I'm Sarah, work-in-progress Fullstack Develeoper and Lifelong Learner enthusiast
 
 
 ### 🧙‍♀️ My pronouns are she/her
-<br>
 
 ### 🌎 I speak portuguese, english, spanish and I'm currently learning german
-<br>
 
 ### 👩‍🎓 I’m a Junior Fullstack, currently focusing on my Back-End skills
-<br>
 
 ### 🤘 I love to listen to music while I code, it helps me focus
-<br>
 
 ### 🚧 I'm always working on a project! Let's build something together?
-<br>
 
 ### 🌈 I'm always open to talk, just reach out!
-</br>
-
+<br/>
 
 ## <div align="center">My Skills</div> 
----
 <div align="center" style="margin-top: 24px">
 
 | Front-End | Back-End | Others |
@@ -47,7 +40,6 @@ I'm Sarah, work-in-progress Fullstack Develeoper and Lifelong Learner enthusiast
 </div>
 
 ## <div align="center">Reach Out!</div>
----
 
 <div align="center" style="margin-top: 24px">
 
@@ -60,7 +52,6 @@ I'm Sarah, work-in-progress Fullstack Develeoper and Lifelong Learner enthusiast
 
 
 ## <div align="center">Github Stats </div>
-----
 <div align="center" style="margin-top: 24px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssschneider&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center">
 </div>  
@@ -68,9 +59,6 @@ I'm Sarah, work-in-progress Fullstack Develeoper and Lifelong Learner enthusiast
 <br/> 
 
 ## <div align="center">Tunes </div>
-----
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sarahmurebs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7900ff&bar_color_cover=true" /></div>  
-
-<br/>
