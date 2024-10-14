@@ -18,14 +18,13 @@
 ### 🚧 I'm always working on a project! Let's build something together?
 <br/>
 
-## <h3 align="center">My Skills</h3> 
+## <div align="center">My Skills</div> 
 <div align="left" style="margin-top: 24px">
   <p> :point_up: I'm mostly focused on Frontend Development</p>
   <p> :v: BUT, I'm very curious (plus school), so I have been dabling in Pyhton and Node too</p>
 
-
-
 </div>
+<br/><br/>
 
 ## <div align="center">Reach Out (I promise I don't bite)!</div>
 
